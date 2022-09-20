@@ -1,0 +1,8 @@
+#sidebarMenu > div > ul > li > a.active {
+  font-weight: bold;
+  color: blueviolet;
+}
+
+.btn-fixed-150px {
+  width: 150px;
+}
